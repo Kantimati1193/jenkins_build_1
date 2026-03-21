@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Build Triggered Successfully!"
-echo "Edited File"
+echo "Edited Files"
 echo "Current Date and Time:"
 date
